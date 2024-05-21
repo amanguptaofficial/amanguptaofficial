@@ -1,4 +1,4 @@
-![Master Java](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Master Java](https://static.vecteezy.com/system/resources/previews/003/297/769/non_2x/programming-concept-with-icon-set-with-big-word-or-text-on-center-free-vector.jpg)
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 
 <h3 align="center"> Hello! Thanks for stopping by my GitHub profile! I recently graduated with a Master of Computer Applications (MCA) degree. I love building stuff with code, especially the backend parts. I'm good with Java, Spring Boot, MongoDB, Spring, MySQL, and JavaScript. I'm excited to work on cool projects and learn new things along the way.</h3>
